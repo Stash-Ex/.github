@@ -7,6 +7,6 @@ The current applications under development are:
 
 Please have a look at the Github repositories for more information. Both the Stash protocol and extension have roadmaps full of features and enhancements supporting new use-cases. There are additional things that need to be built such as backends, dedicated UI, SDKs for game development (AR/VR), and premium features to support a diverse set of users such as content creators and brands. We are looking for anyone that is interested in the project and would like to contribute.
 
-Any and all feedback is greatly appreciated. Please start a discussion on the relevant project's discussion board, raise an issue, or post a PR and it will be looked at with and utmost urgency.
+Any and all feedback is greatly appreciated. Please start a discussion on the relevant project's discussion board, raise an issue, or post a PR and it will be looked at with utmost urgency.
 
 
